@@ -2,7 +2,7 @@
 
 I'm Christian. Somehow, you've landed on my GitHub. If you're interested in more of what I do, check out my [blog](https://chrisdalvit.github.io/).
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisdalvit&show_icons=true&locale=en&layout=compact" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisdalvit&show_icons=true&locale=en&layout=compact&hide=language1" alt="ovi" />
 <!--
 **chrisdalvit/chrisdalvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
